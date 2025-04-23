@@ -3,12 +3,12 @@
 export const bangs = [
   {
     c: "AI",
-    d: "www.t3.chat",
+    d: "www.perplexity.ai",
     r: 0,
-    s: "T3 Chat",
+    s: "Perplexity",
     sc: "AI",
-    t: "t3",
-    u: "https://www.t3.chat/new?q={{{s}}}",
+    t: "px",
+    u: "https://www.perplexity.ai/?q={{{s}}}",
   },
   {
     c: "Tech",
@@ -85369,15 +85369,6 @@ export const bangs = [
     sc: "Images",
     t: "pxhere",
     u: "https://pxhere.com/en/photos?q={{{s}}}",
-  },
-  {
-    c: "Multimedia",
-    d: "pixabay.com",
-    r: 17,
-    s: "Pixabay",
-    sc: "Images",
-    t: "px",
-    u: "http://pixabay.com/en/photos/?q={{{s}}}",
   },
   {
     c: "Multimedia",
