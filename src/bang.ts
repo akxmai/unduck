@@ -3,12 +3,12 @@
 export const bangs = [
   {
     c: "AI",
-    d: "www.perplexity.ai",
+    d: "ai.akamai.uz",
     r: 0,
-    s: "Perplexity",
+    s: "Open WebUI",
     sc: "AI",
-    t: "px",
-    u: "https://www.perplexity.ai/?q={{{s}}}",
+    t: "ai",
+    u: "https://ai.akamai.uz/?q={{{s}}}",
   },
   {
     c: "Tech",
@@ -3177,15 +3177,6 @@ export const bangs = [
     sc: "Reference",
     t: "aitopics",
     u: "https://aitopics.org/search?q={{{s}}}",
-  },
-  {
-    c: "Research",
-    d: "www.duckduckgo.com",
-    r: 8351,
-    s: "Duck.ai",
-    sc: "Reference",
-    t: "ai",
-    u: "https://www.duckduckgo.com/?q={{{s}}}&ia=chat&bang=true ",
   },
   {
     c: "News",
